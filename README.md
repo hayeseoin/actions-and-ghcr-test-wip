@@ -1,2 +1,3 @@
-# actions-and-ghcr-test-wip
-Testing github actions and GHCR
+# Github Actions and GHCR
+
+Exploring pushing containers to GHCR as with Github actions. 
